@@ -1,0 +1,12 @@
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/icudtl.dat
+E:/ecommerce/ecommerce/build/windows/runner/Debug/flutter_windows.dll
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/assets/images/chair.jpg
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/assets/images/profile.jpg
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/ecommerce/ecommerce/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
